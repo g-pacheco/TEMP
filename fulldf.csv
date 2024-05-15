@@ -1,4 +1,4 @@
-Sample_ID_1	Sample_ID_2	Population_1	Population_2	Ind_1	Ind_2	CHRType	K	Value	Triangle
+Sample_ID_1	Sample_ID_2	Population_1	Population_2	Ind_1	Ind_2	CHRType	Ka	Value	Triangle
 KAZ14001	KAZ14001	A	A	A_01	A_01	Autosomes	K = 7	10	Individual
 KAZ14001	KAZ14001	A	A	A_01	A_01	Allosome	K = 4	10	Individual
 KAZ14001	KAZ14001	A	A	A_01	A_01	Allosome	K = 3	10	Individual
